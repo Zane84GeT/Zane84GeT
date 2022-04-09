@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zane84GeT
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning coding, in python
 - 💞 I’m looking to collaborate on hacking websites
 - 📫 How to reach me is go to gmail, and type: zane.mal786@hadischool.org
 
